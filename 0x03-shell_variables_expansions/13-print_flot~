@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $NUM {.00}
+
